@@ -7,17 +7,8 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEngineEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsole.cpp.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsoleDataAsset.cpp.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsoleDeveloperSettings.cpp.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsoleProjectSettings.cpp.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsoleSubsystem.cpp.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsoleWidget.cpp.obj"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\Module.SwiftConsole.cpp.obj"
 "C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsole.init.gen.cpp.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsoleDataAsset.gen.cpp.obj"
 "C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsoleDeveloperSettings.gen.cpp.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsoleProjectSettings.gen.cpp.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsoleSubsystem.gen.cpp.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\SwiftConsoleWidget.gen.cpp.obj"
 "C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\Default.rc2.res"
 /OUT:"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\SwiftConsole\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwiftConsole\UnrealEditor-SwiftConsole.lib"

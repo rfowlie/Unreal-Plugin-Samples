@@ -92,14 +92,8 @@ struct Z_Construct_UClass_USwiftConsoleDeveloperSettings_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
-#if !UE_BUILD_SHIPPING
-		{ "Comment", "/**\n * \n */// UCLASS(Config=Game, defaultconfig, meta = (DisplayName=\"Swift Console Settings\"))\n" },
-#endif
 		{ "IncludePath", "SwiftConsoleDeveloperSettings.h" },
 		{ "ModuleRelativePath", "Public/SwiftConsoleDeveloperSettings.h" },
-#if !UE_BUILD_SHIPPING
-		{ "ToolTip", "// UCLASS(Config=Game, defaultconfig, meta = (DisplayName=\"Swift Console Settings\"))" },
-#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Clear_MetaData[] = {
 		{ "Category", "SwiftConsoleDeveloperSettings" },
@@ -107,13 +101,7 @@ struct Z_Construct_UClass_USwiftConsoleDeveloperSettings_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_RowNext_MetaData[] = {
 		{ "Category", "SwiftConsoleDeveloperSettings" },
-#if !UE_BUILD_SHIPPING
-		{ "Comment", "// UPROPERTY(EditAnywhere, Config)\n// FKey GroupNext;\n//\n// UPROPERTY(EditAnywhere, Config)\n// FKey GroupPrevious;\n" },
-#endif
 		{ "ModuleRelativePath", "Public/SwiftConsoleDeveloperSettings.h" },
-#if !UE_BUILD_SHIPPING
-		{ "ToolTip", "UPROPERTY(EditAnywhere, Config)\nFKey GroupNext;\n\nUPROPERTY(EditAnywhere, Config)\nFKey GroupPrevious;" },
-#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_RowPrevious_MetaData[] = {
 		{ "Category", "SwiftConsoleDeveloperSettings" },
@@ -212,10 +200,10 @@ USwiftConsoleDeveloperSettings::~USwiftConsoleDeveloperSettings() {}
 struct Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_SwiftConsole_Source_SwiftConsole_Public_SwiftConsoleDeveloperSettings_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_USwiftConsoleDeveloperSettings, USwiftConsoleDeveloperSettings::StaticClass, TEXT("USwiftConsoleDeveloperSettings"), &Z_Registration_Info_UClass_USwiftConsoleDeveloperSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USwiftConsoleDeveloperSettings), 3572480910U) },
+		{ Z_Construct_UClass_USwiftConsoleDeveloperSettings, USwiftConsoleDeveloperSettings::StaticClass, TEXT("USwiftConsoleDeveloperSettings"), &Z_Registration_Info_UClass_USwiftConsoleDeveloperSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USwiftConsoleDeveloperSettings), 1206489223U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_SwiftConsole_Source_SwiftConsole_Public_SwiftConsoleDeveloperSettings_h_584172503(TEXT("/Script/SwiftConsole"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_SwiftConsole_Source_SwiftConsole_Public_SwiftConsoleDeveloperSettings_h_3479759568(TEXT("/Script/SwiftConsole"),
 	Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_SwiftConsole_Source_SwiftConsole_Public_SwiftConsoleDeveloperSettings_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_SwiftConsole_Source_SwiftConsole_Public_SwiftConsoleDeveloperSettings_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
