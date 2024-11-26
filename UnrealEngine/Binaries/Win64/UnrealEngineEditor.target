@@ -3660,6 +3660,18 @@
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/CustomPlaceActors/Binaries/Win64/UnrealEditor-CustomPlaceActors.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/CustomPlaceActors/Binaries/Win64/UnrealEditor-CustomPlaceActors.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/CustomPlaceActors/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -26692,6 +26704,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/CustomPlaceActors/CustomPlaceActors.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(ProjectDir)/UnrealEngine.uproject",
 			"Type": "UFS"
 		}
@@ -26749,6 +26765,7 @@
 		"CryptoKeys",
 		"CurveEditorTools",
 		"CustomMeshComponent",
+		"CustomPlaceActors",
 		"DataValidation",
 		"Dataflow",
 		"DatasmithContent",

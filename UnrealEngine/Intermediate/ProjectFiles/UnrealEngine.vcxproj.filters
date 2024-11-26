@@ -11,6 +11,7 @@
     <None Include="..\..\Source\UnrealEngineEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -28,6 +29,60 @@
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CustomPlaceActors">
+      <UniqueIdentifier>{2731A27E-257E-3568-9062-0A001A50B604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CustomPlaceActors\Source">
+      <UniqueIdentifier>{05C12EAE-C8BB-3034-B3CE-6DD13CC070AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CustomPlaceActors\Source\CustomPlaceActors">
+      <UniqueIdentifier>{B65EBC1C-1CF6-3BD4-91C8-31CF4C91886E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CustomPlaceActors\Source\CustomPlaceActors\CustomPlaceActors.Build.cs">
+      <Filter>Plugins\CustomPlaceActors\Source\CustomPlaceActors</Filter>
+    </None>
+    <Filter Include="Plugins\CustomPlaceActors\Source\CustomPlaceActors\Private">
+      <UniqueIdentifier>{9E7CBDDC-6B82-336A-8363-74F53E848C24}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CustomPlaceActors\Source\CustomPlaceActors\Private\CustomPlaceActors.cpp">
+      <Filter>Plugins\CustomPlaceActors\Source\CustomPlaceActors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CustomPlaceActors\Source\CustomPlaceActors\Private\CustomPlaceActorsDataAsset.cpp">
+      <Filter>Plugins\CustomPlaceActors\Source\CustomPlaceActors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CustomPlaceActors\Source\CustomPlaceActors\Private\CustomPlaceActorsEditorSubsystem.cpp">
+      <Filter>Plugins\CustomPlaceActors\Source\CustomPlaceActors\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CustomPlaceActors\Source\CustomPlaceActors\Public">
+      <UniqueIdentifier>{5C95C69F-110A-319F-A50A-3EE70856CEE9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CustomPlaceActors\Source\CustomPlaceActors\Public\CustomPlaceActors.h">
+      <Filter>Plugins\CustomPlaceActors\Source\CustomPlaceActors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CustomPlaceActors\Source\CustomPlaceActors\Public\CustomPlaceActorsDataAsset.h">
+      <Filter>Plugins\CustomPlaceActors\Source\CustomPlaceActors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CustomPlaceActors\Source\CustomPlaceActors\Public\CustomPlaceActorsEditorSubsystem.h">
+      <Filter>Plugins\CustomPlaceActors\Source\CustomPlaceActors\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\CustomPlaceActors\CustomPlaceActors.uplugin">
+      <Filter>Plugins\CustomPlaceActors</Filter>
+    </None>
+    <Filter Include="Plugins\CustomPlaceActors\Config">
+      <UniqueIdentifier>{50B37020-3800-3B1D-B115-8206A3F287A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CustomPlaceActors\Config\DefaultCustomPlaceActors.ini">
+      <Filter>Plugins\CustomPlaceActors\Config</Filter>
+    </None>
+    <Filter Include="Plugins\CustomPlaceActors\Resources">
+      <UniqueIdentifier>{F05EE8CC-E380-3CA0-9E13-B163FCEAD27C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CustomPlaceActors\Resources\Icon128.png">
+      <Filter>Plugins\CustomPlaceActors\Resources</Filter>
     </None>
     <Filter Include="Source\UnrealEngine">
       <UniqueIdentifier>{355365C1-082C-3242-B3D4-CBF3A7D4ACE7}</UniqueIdentifier>

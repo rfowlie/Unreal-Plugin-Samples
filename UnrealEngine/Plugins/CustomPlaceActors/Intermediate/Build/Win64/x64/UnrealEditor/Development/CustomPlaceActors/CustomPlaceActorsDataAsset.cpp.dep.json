@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\customplaceactors\\source\\customplaceactors\\private\\customplaceactorsdataasset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\intermediate\\build\\win64\\x64\\unrealengineeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\customplaceactors\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\customplaceactors\\definitions.customplaceactors.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\customplaceactors\\source\\customplaceactors\\public\\customplaceactorsdataasset.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\customplaceactors\\intermediate\\build\\win64\\unrealeditor\\inc\\customplaceactors\\uht\\customplaceactorsdataasset.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsavecontext.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\cookenums.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsaveoverride.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\customplaceactors\\source\\customplaceactors\\public\\customplaceactorseditorsubsystem.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\customplaceactors\\intermediate\\build\\win64\\unrealeditor\\inc\\customplaceactors\\uht\\customplaceactorseditorsubsystem.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\notifications\\notificationmanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\coreasynctasknotificationimpl.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\asynctasknotification.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\notifications\\snotificationlist.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
