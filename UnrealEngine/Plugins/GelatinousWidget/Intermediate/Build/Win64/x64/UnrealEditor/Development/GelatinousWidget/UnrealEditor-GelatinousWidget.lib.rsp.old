@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GelatinousWidget.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Intermediate\Build\Win64\x64\PortfolioEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\Module.GelatinousWidget.cpp.obj"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\Default.rc2.res"
+/OUT:"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\UnrealEditor-GelatinousWidget.lib"

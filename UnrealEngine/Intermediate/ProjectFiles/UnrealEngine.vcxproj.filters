@@ -88,6 +88,21 @@
     <None Include="..\..\Plugins\CustomPlaceActors\Resources\Icon128.png">
       <Filter>Plugins\CustomPlaceActors\Resources</Filter>
     </None>
+    <Filter Include="Plugins\GelatinousWidget">
+      <UniqueIdentifier>{2DA74498-760D-3E01-BD98-DE4B88E59581}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\GelatinousWidget\GelatinousWidget.uplugin">
+      <Filter>Plugins\GelatinousWidget</Filter>
+    </None>
+    <Filter Include="Plugins\GelatinousWidget\Resources">
+      <UniqueIdentifier>{E1D9AF3B-8F04-3777-BBA4-6DBDA810A522}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\GelatinousWidget\Resources\Icon128.png">
+      <Filter>Plugins\GelatinousWidget\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\GelatinousWidget\Resources\PlaceholderButtonIcon.svg">
+      <Filter>Plugins\GelatinousWidget\Resources</Filter>
+    </None>
     <Filter Include="Plugins\SwiftConsole">
       <UniqueIdentifier>{0B5AFEF8-8E99-30E6-8A46-6ACDFB8E0F09}</UniqueIdentifier>
     </Filter>
@@ -100,6 +115,51 @@
     <None Include="..\..\Plugins\SwiftConsole\Resources\Icon128.png">
       <Filter>Plugins\SwiftConsole\Resources</Filter>
     </None>
+    <Filter Include="Plugins\GelatinousWidget\Source">
+      <UniqueIdentifier>{912E3649-9C35-394C-B2D8-A67FC4340EA2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\GelatinousWidget\Source\GelatinousWidget">
+      <UniqueIdentifier>{24490436-A475-3A8A-825B-9491088690DD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\GelatinousWidget.Build.cs">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget</Filter>
+    </None>
+    <Filter Include="Plugins\GelatinousWidget\Source\GelatinousWidget\Private">
+      <UniqueIdentifier>{ECC3F1C6-FCFE-36CD-9616-81E8ABA68191}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Private\GelatinousWidget.cpp">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Private\GelatinousWidgetBFL.cpp">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Private\GelatinousWidgetCommands.cpp">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Private\GelatinousWidgetDataAsset.cpp">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Private\GelatinousWidgetStyle.cpp">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\GelatinousWidget\Source\GelatinousWidget\Public">
+      <UniqueIdentifier>{0F02809F-721A-3021-BE5E-630239A7357B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Public\GelatinousWidget.h">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Public\GelatinousWidgetBFL.h">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Public\GelatinousWidgetCommands.h">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Public\GelatinousWidgetDataAsset.h">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Public\GelatinousWidgetStyle.h">
+      <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Public</Filter>
+    </ClInclude>
     <Filter Include="Plugins\SwiftConsole\Source">
       <UniqueIdentifier>{4B5AF70A-2849-3D3B-A1EB-B37918870191}</UniqueIdentifier>
     </Filter>

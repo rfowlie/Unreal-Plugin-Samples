@@ -2,6 +2,7 @@
 	"SourceFiles": [
 		"C:\\Users\\rober\\OneDrive\\Documents\\Game Dev\\Portfolio\\UnrealEngine\\Source\\UnrealEngine\\UnrealEngine.Build.cs",
 		"C:\\Users\\rober\\OneDrive\\Documents\\Game Dev\\Portfolio\\UnrealEngine\\Plugins\\CustomPlaceActors\\Source\\CustomPlaceActors\\CustomPlaceActors.Build.cs",
+		"C:\\Users\\rober\\OneDrive\\Documents\\Game Dev\\Portfolio\\UnrealEngine\\Plugins\\GelatinousWidget\\Source\\GelatinousWidget\\GelatinousWidget.Build.cs",
 		"C:\\Users\\rober\\OneDrive\\Documents\\Game Dev\\Portfolio\\UnrealEngine\\Plugins\\SwiftConsole\\Source\\SwiftConsole\\SwiftConsole.Build.cs",
 		"C:\\Users\\rober\\OneDrive\\Documents\\Game Dev\\Portfolio\\UnrealEngine\\Source\\UnrealEngine.Target.cs",
 		"C:\\Users\\rober\\OneDrive\\Documents\\Game Dev\\Portfolio\\UnrealEngine\\Source\\UnrealEngineEditor.Target.cs"

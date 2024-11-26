@@ -3674,6 +3674,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/GelatinousWidget/Binaries/Win64/UnrealEditor-GelatinousWidget.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/GelatinousWidget/Binaries/Win64/UnrealEditor-GelatinousWidget.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/GelatinousWidget/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/SwiftConsole/Binaries/Win64/UnrealEditor-SwiftConsole.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -26720,6 +26732,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/GelatinousWidget/GelatinousWidget.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/SwiftConsole/SwiftConsole.uplugin",
 			"Type": "UFS"
 		},
@@ -26799,6 +26815,7 @@
 		"GLTFExporter",
 		"GameplayCameras",
 		"GameplayTagsEditor",
+		"GelatinousWidget",
 		"GeometryCache",
 		"GeometryCollectionPlugin",
 		"GeometryFlow",

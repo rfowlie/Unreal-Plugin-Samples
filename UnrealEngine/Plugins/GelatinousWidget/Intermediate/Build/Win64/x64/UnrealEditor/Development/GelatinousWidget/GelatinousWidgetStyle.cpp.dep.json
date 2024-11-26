@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\gelatinouswidget\\source\\gelatinouswidget\\private\\gelatinouswidgetstyle.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\intermediate\\build\\win64\\x64\\unrealengineeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\gelatinouswidget\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gelatinouswidget\\definitions.gelatinouswidget.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\gelatinouswidget\\source\\gelatinouswidget\\public\\gelatinouswidgetstyle.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\gelatinouswidget\\source\\gelatinouswidget\\public\\gelatinouswidget.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\slate\\slategameresources.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestylemacros.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
