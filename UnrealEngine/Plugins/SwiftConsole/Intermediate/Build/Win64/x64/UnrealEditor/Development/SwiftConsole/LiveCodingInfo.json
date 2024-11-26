@@ -2,7 +2,9 @@
 	"RemapUnityFiles": 
 	{
 		"Module.SwiftConsole.cpp.obj": [
+			"SwiftConsole.init.gen.cpp.obj",
 			"SwiftConsoleDataAsset.gen.cpp.obj",
+			"SwiftConsoleDeveloperSettings.gen.cpp.obj",
 			"SwiftConsoleProjectSettings.gen.cpp.obj",
 			"SwiftConsoleSubsystem.gen.cpp.obj",
 			"SwiftConsoleWidget.gen.cpp.obj",
@@ -11,9 +13,7 @@
 			"SwiftConsoleProjectSettings.cpp.obj",
 			"SwiftConsoleSubsystem.cpp.obj",
 			"SwiftConsoleWidget.cpp.obj",
-			"SwiftConsole.cpp.obj",
-			"SwiftConsole.init.gen.cpp.obj",
-			"SwiftConsoleDeveloperSettings.gen.cpp.obj"
+			"SwiftConsole.cpp.obj"
 		]
 	}
 }

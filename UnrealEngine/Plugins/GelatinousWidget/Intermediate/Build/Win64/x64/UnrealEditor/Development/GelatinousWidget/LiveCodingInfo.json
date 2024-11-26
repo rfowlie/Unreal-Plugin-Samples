@@ -1,5 +1,15 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.GelatinousWidget.cpp.obj": [
+			"GelatinousWidget.init.gen.cpp.obj",
+			"GelatinousWidgetBFL.gen.cpp.obj",
+			"GelatinousWidgetDataAsset.gen.cpp.obj",
+			"GelatinousWidget.cpp.obj",
+			"GelatinousWidgetBFL.cpp.obj",
+			"GelatinousWidgetCommands.cpp.obj",
+			"GelatinousWidgetStyle.cpp.obj",
+			"GelatinousWidgetDataAsset.cpp.obj"
+		]
 	}
 }

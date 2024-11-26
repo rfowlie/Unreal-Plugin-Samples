@@ -28,17 +28,17 @@ struct FAbsorbedWidgetInfo
 	FString DocumentationURL;	
 };
 
-// USTRUCT(BlueprintType)
-// struct FAbsorbedWidgetContainer
-// {
-// 	GENERATED_BODY()
-//
-// 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly)
-// 	UEditorUtilityWidget* EditorUtilityWidget = nullptr;
-//
-// 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly)
-// 	FAbsorbedWidgetInfo WidgetInfo;
-// };
+USTRUCT(BlueprintType)
+struct FAbsorbedWidgetContainer
+{
+	GENERATED_BODY()
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly)
+	UEditorUtilityWidget* EditorUtilityWidget = nullptr;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly)
+	FAbsorbedWidgetInfo WidgetInfo;
+};
 
 UCLASS(Blueprintable)  
 class GELATINOUSWIDGET_API UGelatinousWidgetDataAsset : public UDataAsset

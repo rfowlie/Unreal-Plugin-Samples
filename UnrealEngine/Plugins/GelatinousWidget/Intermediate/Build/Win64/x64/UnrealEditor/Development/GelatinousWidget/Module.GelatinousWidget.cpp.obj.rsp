@@ -1,11 +1,11 @@
-"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\Module.GelatinousWidget.cpp"
-/FI"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Intermediate\Build\Win64\x64\PortfolioEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\Definitions.GelatinousWidget.h"
-/Yu"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Intermediate\Build\Win64\x64\PortfolioEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Intermediate\Build\Win64\x64\PortfolioEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\Module.GelatinousWidget.cpp.obj"
-/sourceDependencies "C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\Module.GelatinousWidget.cpp.dep.json"
-@"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\GelatinousWidget.Shared.rsp"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\Module.GelatinousWidget.cpp"
+/FI"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEngineEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\Definitions.GelatinousWidget.h"
+/Yu"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEngineEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEngineEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\Module.GelatinousWidget.cpp.obj"
+/sourceDependencies "C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\Module.GelatinousWidget.cpp.dep.json"
+@"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\GelatinousWidget\Intermediate\Build\Win64\x64\UnrealEditor\Development\GelatinousWidget\GelatinousWidget.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

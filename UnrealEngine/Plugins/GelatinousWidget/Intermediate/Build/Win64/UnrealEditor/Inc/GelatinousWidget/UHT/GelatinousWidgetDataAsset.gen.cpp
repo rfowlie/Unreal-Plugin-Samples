@@ -118,13 +118,7 @@ struct Z_Construct_UScriptStruct_FAbsorbedWidgetContainer_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Struct_MetaDataParams[] = {
 		{ "BlueprintType", "true" },
-#if !UE_BUILD_SHIPPING
-		{ "Comment", "// NOT IN USE???\n" },
-#endif
 		{ "ModuleRelativePath", "Public/GelatinousWidgetDataAsset.h" },
-#if !UE_BUILD_SHIPPING
-		{ "ToolTip", "NOT IN USE???" },
-#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_EditorUtilityWidget_MetaData[] = {
 		{ "Category", "AbsorbedWidgetContainer" },
@@ -133,13 +127,7 @@ struct Z_Construct_UScriptStruct_FAbsorbedWidgetContainer_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_WidgetInfo_MetaData[] = {
 		{ "Category", "AbsorbedWidgetContainer" },
-#if !UE_BUILD_SHIPPING
-		{ "Comment", "// UPROPERTY(EditDefaultsOnly, BlueprintReadOnly)\n// UUserWidget* TabWidget = nullptr;\n//\n// UPROPERTY(EditDefaultsOnly, BlueprintReadOnly)\n// UUserWidget* CheckboxWidget = nullptr;\n" },
-#endif
 		{ "ModuleRelativePath", "Public/GelatinousWidgetDataAsset.h" },
-#if !UE_BUILD_SHIPPING
-		{ "ToolTip", "UPROPERTY(EditDefaultsOnly, BlueprintReadOnly)\nUUserWidget* TabWidget = nullptr;\n\nUPROPERTY(EditDefaultsOnly, BlueprintReadOnly)\nUUserWidget* CheckboxWidget = nullptr;" },
-#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_EditorUtilityWidget;
@@ -265,13 +253,13 @@ struct Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfol
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FAbsorbedWidgetInfo::StaticStruct, Z_Construct_UScriptStruct_FAbsorbedWidgetInfo_Statics::NewStructOps, TEXT("AbsorbedWidgetInfo"), &Z_Registration_Info_UScriptStruct_AbsorbedWidgetInfo, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FAbsorbedWidgetInfo), 906252092U) },
-		{ FAbsorbedWidgetContainer::StaticStruct, Z_Construct_UScriptStruct_FAbsorbedWidgetContainer_Statics::NewStructOps, TEXT("AbsorbedWidgetContainer"), &Z_Registration_Info_UScriptStruct_AbsorbedWidgetContainer, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FAbsorbedWidgetContainer), 263102726U) },
+		{ FAbsorbedWidgetContainer::StaticStruct, Z_Construct_UScriptStruct_FAbsorbedWidgetContainer_Statics::NewStructOps, TEXT("AbsorbedWidgetContainer"), &Z_Registration_Info_UScriptStruct_AbsorbedWidgetContainer, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FAbsorbedWidgetContainer), 2448751359U) },
 	};
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UGelatinousWidgetDataAsset, UGelatinousWidgetDataAsset::StaticClass, TEXT("UGelatinousWidgetDataAsset"), &Z_Registration_Info_UClass_UGelatinousWidgetDataAsset, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGelatinousWidgetDataAsset), 802054334U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_GelatinousWidget_Source_GelatinousWidget_Public_GelatinousWidgetDataAsset_h_3148391363(TEXT("/Script/GelatinousWidget"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_GelatinousWidget_Source_GelatinousWidget_Public_GelatinousWidgetDataAsset_h_736937571(TEXT("/Script/GelatinousWidget"),
 	Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_GelatinousWidget_Source_GelatinousWidget_Public_GelatinousWidgetDataAsset_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_GelatinousWidget_Source_GelatinousWidget_Public_GelatinousWidgetDataAsset_h_Statics::ClassInfo),
 	Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_GelatinousWidget_Source_GelatinousWidget_Public_GelatinousWidgetDataAsset_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_rober_OneDrive_Documents_Game_Dev_Portfolio_UnrealEngine_Plugins_GelatinousWidget_Source_GelatinousWidget_Public_GelatinousWidgetDataAsset_h_Statics::ScriptStructInfo),
 	nullptr, 0);
