@@ -3672,6 +3672,18 @@
 		{
 			"Path": "$(ProjectDir)/Plugins/CustomPlaceActors/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SwiftConsole/Binaries/Win64/UnrealEditor-SwiftConsole.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SwiftConsole/Binaries/Win64/UnrealEditor-SwiftConsole.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SwiftConsole/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -26708,6 +26720,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/SwiftConsole/SwiftConsole.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(ProjectDir)/UnrealEngine.uproject",
 			"Type": "UFS"
 		}
@@ -26863,6 +26879,7 @@
 		"StructUtils",
 		"StudioTelemetry",
 		"SubversionSourceControl",
+		"SwiftConsole",
 		"Synthesis",
 		"Takes",
 		"TcpMessaging",

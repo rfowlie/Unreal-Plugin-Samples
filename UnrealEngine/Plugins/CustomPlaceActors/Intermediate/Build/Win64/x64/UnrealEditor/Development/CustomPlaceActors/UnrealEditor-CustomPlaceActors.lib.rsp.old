@@ -6,7 +6,12 @@
 /NAME:"UnrealEditor-CustomPlaceActors.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Intermediate\Build\Win64\x64\PortfolioEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Module.CustomPlaceActors.cpp.obj"
-"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Default.rc2.res"
-/OUT:"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\UnrealEditor-CustomPlaceActors.lib"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEngineEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\CustomPlaceActors.cpp.obj"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\CustomPlaceActorsDataAsset.cpp.obj"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\CustomPlaceActorsEditorSubsystem.cpp.obj"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\CustomPlaceActors.init.gen.cpp.obj"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\CustomPlaceActorsDataAsset.gen.cpp.obj"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\CustomPlaceActorsEditorSubsystem.gen.cpp.obj"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Default.rc2.res"
+/OUT:"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\UnrealEditor-CustomPlaceActors.lib"

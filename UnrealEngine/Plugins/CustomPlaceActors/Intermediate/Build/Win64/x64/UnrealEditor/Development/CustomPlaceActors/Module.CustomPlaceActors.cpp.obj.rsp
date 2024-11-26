@@ -1,11 +1,11 @@
-"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Module.CustomPlaceActors.cpp"
-/FI"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Intermediate\Build\Win64\x64\PortfolioEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Definitions.CustomPlaceActors.h"
-/Yu"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Intermediate\Build\Win64\x64\PortfolioEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Intermediate\Build\Win64\x64\PortfolioEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Module.CustomPlaceActors.cpp.obj"
-/sourceDependencies "C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Module.CustomPlaceActors.cpp.dep.json"
-@"C:\Users\rober\OneDrive\Documents\Game Dev\Unreal\Unreal-Portfolio\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\CustomPlaceActors.Shared.rsp"
+"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Module.CustomPlaceActors.cpp"
+/FI"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEngineEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Definitions.CustomPlaceActors.h"
+/Yu"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEngineEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Intermediate\Build\Win64\x64\UnrealEngineEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Module.CustomPlaceActors.cpp.obj"
+/sourceDependencies "C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\Module.CustomPlaceActors.cpp.dep.json"
+@"C:\Users\rober\OneDrive\Documents\Game Dev\Portfolio\UnrealEngine\Plugins\CustomPlaceActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomPlaceActors\CustomPlaceActors.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\swiftconsole\\intermediate\\build\\win64\\unrealeditor\\inc\\swiftconsole\\uht\\swiftconsolesubsystem.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\intermediate\\build\\win64\\x64\\unrealengineeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\swiftconsole\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\swiftconsole\\definitions.swiftconsole.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\swiftconsole\\source\\swiftconsole\\public\\swiftconsolesubsystem.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\swiftconsole\\intermediate\\build\\win64\\unrealeditor\\inc\\swiftconsole\\uht\\swiftconsolesubsystem.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

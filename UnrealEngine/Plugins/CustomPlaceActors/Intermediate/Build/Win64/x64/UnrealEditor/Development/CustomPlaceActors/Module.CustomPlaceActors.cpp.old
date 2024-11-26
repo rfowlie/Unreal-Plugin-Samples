@@ -3,3 +3,5 @@
 #include "C:/Users/rober/OneDrive/Documents/Game Dev/Unreal/Unreal-Portfolio/Plugins/CustomPlaceActors/Intermediate/Build/Win64/UnrealEditor/Inc/CustomPlaceActors/UHT/CustomPlaceActorsDataAsset.gen.cpp"
 #include "C:/Users/rober/OneDrive/Documents/Game Dev/Unreal/Unreal-Portfolio/Plugins/CustomPlaceActors/Intermediate/Build/Win64/UnrealEditor/Inc/CustomPlaceActors/UHT/CustomPlaceActorsEditorSubsystem.gen.cpp"
 #include "C:/Users/rober/OneDrive/Documents/Game Dev/Unreal/Unreal-Portfolio/Plugins/CustomPlaceActors/Source/CustomPlaceActors/Private/CustomPlaceActors.cpp"
+#include "C:/Users/rober/OneDrive/Documents/Game Dev/Unreal/Unreal-Portfolio/Plugins/CustomPlaceActors/Source/CustomPlaceActors/Private/CustomPlaceActorsDataAsset.cpp"
+#include "C:/Users/rober/OneDrive/Documents/Game Dev/Unreal/Unreal-Portfolio/Plugins/CustomPlaceActors/Source/CustomPlaceActors/Private/CustomPlaceActorsEditorSubsystem.cpp"

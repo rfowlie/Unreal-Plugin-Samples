@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UnrealEngine.sln.DotSettings.user" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -28,6 +29,9 @@
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultSwiftConsoleSettings.ini">
       <Filter>Config</Filter>
     </None>
     <Filter Include="Plugins">
@@ -84,6 +88,69 @@
     <None Include="..\..\Plugins\CustomPlaceActors\Resources\Icon128.png">
       <Filter>Plugins\CustomPlaceActors\Resources</Filter>
     </None>
+    <Filter Include="Plugins\SwiftConsole">
+      <UniqueIdentifier>{0B5AFEF8-8E99-30E6-8A46-6ACDFB8E0F09}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SwiftConsole\SwiftConsole.uplugin">
+      <Filter>Plugins\SwiftConsole</Filter>
+    </None>
+    <Filter Include="Plugins\SwiftConsole\Resources">
+      <UniqueIdentifier>{5DBF7519-41AF-3DFA-B6D8-CE663D54B143}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SwiftConsole\Resources\Icon128.png">
+      <Filter>Plugins\SwiftConsole\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\SwiftConsole\Source">
+      <UniqueIdentifier>{4B5AF70A-2849-3D3B-A1EB-B37918870191}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SwiftConsole\Source\SwiftConsole">
+      <UniqueIdentifier>{A54A8319-4191-3005-835F-9CD9FBBB3F1A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\SwiftConsole.Build.cs">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\SwiftConsole.cpp">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\SwiftConsole.h">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\SwiftConsole\Source\SwiftConsole\Private">
+      <UniqueIdentifier>{5B1114DA-FC40-33F6-94D8-288339C92883}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\Private\SwiftConsoleDataAsset.cpp">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\Private\SwiftConsoleDeveloperSettings.cpp">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\Private\SwiftConsoleProjectSettings.cpp">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\Private\SwiftConsoleSubsystem.cpp">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\Private\SwiftConsoleWidget.cpp">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\SwiftConsole\Source\SwiftConsole\Public">
+      <UniqueIdentifier>{97DD776F-61DB-33C9-96FA-29442B4BC13D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\Public\SwiftConsoleDataAsset.h">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\Public\SwiftConsoleDeveloperSettings.h">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\Public\SwiftConsoleProjectSettings.h">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\Public\SwiftConsoleSubsystem.h">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SwiftConsole\Source\SwiftConsole\Public\SwiftConsoleWidget.h">
+      <Filter>Plugins\SwiftConsole\Source\SwiftConsole\Public</Filter>
+    </ClInclude>
     <Filter Include="Source\UnrealEngine">
       <UniqueIdentifier>{355365C1-082C-3242-B3D4-CBF3A7D4ACE7}</UniqueIdentifier>
     </Filter>
