@@ -1,3 +1,5 @@
-Unreal Portfolio
+#Portfolio Project
 
-A collection of plugins and game development samples
+Robert Fowlie game developer examples and code samples
+
+-Each section will contain its own README
