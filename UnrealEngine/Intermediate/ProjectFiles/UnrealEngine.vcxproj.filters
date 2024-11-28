@@ -103,6 +103,18 @@
     <None Include="..\..\Plugins\GelatinousWidget\Resources\PlaceholderButtonIcon.svg">
       <Filter>Plugins\GelatinousWidget\Resources</Filter>
     </None>
+    <Filter Include="Plugins\ModularMeshes">
+      <UniqueIdentifier>{D5F55F43-BB1F-3C84-BC90-C56642E718CD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ModularMeshes\ModularMeshes.uplugin">
+      <Filter>Plugins\ModularMeshes</Filter>
+    </None>
+    <Filter Include="Plugins\ModularMeshes\Resources">
+      <UniqueIdentifier>{6FC4349D-FE5E-35DA-9DA8-07FD456498E3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ModularMeshes\Resources\Icon128.png">
+      <Filter>Plugins\ModularMeshes\Resources</Filter>
+    </None>
     <Filter Include="Plugins\SwiftConsole">
       <UniqueIdentifier>{0B5AFEF8-8E99-30E6-8A46-6ACDFB8E0F09}</UniqueIdentifier>
     </Filter>
@@ -159,6 +171,39 @@
     </ClInclude>
     <ClInclude Include="..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\Public\GelatinousWidgetStyle.h">
       <Filter>Plugins\GelatinousWidget\Source\GelatinousWidget\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\ModularMeshes\Source">
+      <UniqueIdentifier>{F64C71FD-445F-3955-89B9-94B77527EC7A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ModularMeshes\Source\ModularMeshes">
+      <UniqueIdentifier>{667BA716-7469-3793-9AC8-EB053A08E2F1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ModularMeshes\Source\ModularMeshes\ModularMeshes.Build.cs">
+      <Filter>Plugins\ModularMeshes\Source\ModularMeshes</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\ModularMeshes\Source\ModularMeshes\ModularMeshes.cpp">
+      <Filter>Plugins\ModularMeshes\Source\ModularMeshes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\ModularMeshes\Source\ModularMeshes\ModularMeshes.h">
+      <Filter>Plugins\ModularMeshes\Source\ModularMeshes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\ModularMeshes\Source\ModularMeshes\Private">
+      <UniqueIdentifier>{56D07FC8-D435-38B3-B405-2C0665FB42B3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ModularMeshes\Source\ModularMeshes\Private\ModularMeshComponent.cpp">
+      <Filter>Plugins\ModularMeshes\Source\ModularMeshes\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ModularMeshes\Source\ModularMeshes\Private\ModularMeshDataAsset.cpp">
+      <Filter>Plugins\ModularMeshes\Source\ModularMeshes\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\ModularMeshes\Source\ModularMeshes\Public">
+      <UniqueIdentifier>{308BC75C-4557-3EFD-B819-7A0DA1B4D7CC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ModularMeshes\Source\ModularMeshes\Public\ModularMeshComponent.h">
+      <Filter>Plugins\ModularMeshes\Source\ModularMeshes\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ModularMeshes\Source\ModularMeshes\Public\ModularMeshDataAsset.h">
+      <Filter>Plugins\ModularMeshes\Source\ModularMeshes\Public</Filter>
     </ClInclude>
     <Filter Include="Plugins\SwiftConsole\Source">
       <UniqueIdentifier>{4B5AF70A-2849-3D3B-A1EB-B37918870191}</UniqueIdentifier>

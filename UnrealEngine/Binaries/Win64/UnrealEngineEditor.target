@@ -3686,6 +3686,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/ModularMeshes/Binaries/Win64/UnrealEditor-ModularMeshes.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ModularMeshes/Binaries/Win64/UnrealEditor-ModularMeshes.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/ModularMeshes/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/SwiftConsole/Binaries/Win64/UnrealEditor-SwiftConsole.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -26736,6 +26748,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/ModularMeshes/ModularMeshes.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/SwiftConsole/SwiftConsole.uplugin",
 			"Type": "UFS"
 		},
@@ -26852,6 +26868,7 @@
 		"MobileLauncherProfileWizard",
 		"MobilePatchingUtils",
 		"ModelingToolsEditorMode",
+		"ModularMeshes",
 		"MsQuic",
 		"N10XSourceCodeAccess",
 		"Niagara",

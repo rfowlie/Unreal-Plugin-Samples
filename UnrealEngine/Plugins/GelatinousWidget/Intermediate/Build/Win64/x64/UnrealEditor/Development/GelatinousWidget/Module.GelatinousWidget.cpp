@@ -5,4 +5,5 @@
 #include "C:/Users/rober/OneDrive/Documents/Game Dev/Portfolio/UnrealEngine/Plugins/GelatinousWidget/Source/GelatinousWidget/Private/GelatinousWidget.cpp"
 #include "C:/Users/rober/OneDrive/Documents/Game Dev/Portfolio/UnrealEngine/Plugins/GelatinousWidget/Source/GelatinousWidget/Private/GelatinousWidgetBFL.cpp"
 #include "C:/Users/rober/OneDrive/Documents/Game Dev/Portfolio/UnrealEngine/Plugins/GelatinousWidget/Source/GelatinousWidget/Private/GelatinousWidgetCommands.cpp"
+#include "C:/Users/rober/OneDrive/Documents/Game Dev/Portfolio/UnrealEngine/Plugins/GelatinousWidget/Source/GelatinousWidget/Private/GelatinousWidgetDataAsset.cpp"
 #include "C:/Users/rober/OneDrive/Documents/Game Dev/Portfolio/UnrealEngine/Plugins/GelatinousWidget/Source/GelatinousWidget/Private/GelatinousWidgetStyle.cpp"

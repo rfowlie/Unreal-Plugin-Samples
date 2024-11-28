@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshdataasset.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\intermediate\\build\\win64\\x64\\unrealengineeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\modularmeshes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\modularmeshes\\definitions.modularmeshes.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\modularmeshes\\source\\modularmeshes\\public\\modularmeshdataasset.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshdataasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

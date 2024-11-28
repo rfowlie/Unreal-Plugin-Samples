@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\modularmeshes\\module.modularmeshes.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\intermediate\\build\\win64\\x64\\portfolioeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\modularmeshes\\definitions.modularmeshes.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshcomponent.gen.cpp",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\source\\modularmeshes\\public\\modularmeshcomponent.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\source\\modularmeshes\\public\\modularmeshdataasset.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshdataasset.generated.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshcomponent.generated.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshdataasset.gen.cpp",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshes.init.gen.cpp",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshfloordependentcomponent.gen.cpp",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\source\\modularmeshes\\public\\modularmeshfloordependentcomponent.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshfloordependentcomponent.generated.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\source\\modularmeshes\\modularmeshes.cpp",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\source\\modularmeshes\\modularmeshes.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\source\\modularmeshes\\private\\modularmeshcomponent.cpp",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\replicationstate\\replicationstateutil.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\netbitarray.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nethandle\\nethandlemanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nethandle\\nethandle.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\dirtynetobjecttracker\\globaldirtynetobjecttracker.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\replicationstate\\replicationstatedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\replicationstate\\replicationstatefwd.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\source\\modularmeshes\\private\\modularmeshdataasset.cpp",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\rendering\\skeletalmeshlodimporterdata.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\source\\modularmeshes\\private\\modularmeshfloordependentcomponent.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\modularmeshes\\source\\modularmeshes\\private\\modularmeshcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\intermediate\\build\\win64\\x64\\unrealengineeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\modularmeshes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\modularmeshes\\definitions.modularmeshes.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\modularmeshes\\source\\modularmeshes\\public\\modularmeshcomponent.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\modularmeshes\\source\\modularmeshes\\public\\modularmeshdataasset.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshdataasset.generated.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\portfolio\\unrealengine\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\replicationstate\\replicationstateutil.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\netbitarray.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nethandle\\nethandlemanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nethandle\\nethandle.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\dirtynetobjecttracker\\globaldirtynetobjecttracker.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\replicationstate\\replicationstatedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\replicationstate\\replicationstatefwd.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

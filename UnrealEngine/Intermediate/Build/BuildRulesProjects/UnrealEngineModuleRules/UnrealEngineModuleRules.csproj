@@ -17,6 +17,7 @@
   <ItemGroup>
   <Compile Include="..\..\..\..\Plugins\CustomPlaceActors\Source\CustomPlaceActors\CustomPlaceActors.Build.cs"><Link>Plugins\CustomPlaceActors\Source\CustomPlaceActors\CustomPlaceActors.Build.cs</Link></Compile>
   <Compile Include="..\..\..\..\Plugins\GelatinousWidget\Source\GelatinousWidget\GelatinousWidget.Build.cs"><Link>Plugins\GelatinousWidget\Source\GelatinousWidget\GelatinousWidget.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\ModularMeshes\Source\ModularMeshes\ModularMeshes.Build.cs"><Link>Plugins\ModularMeshes\Source\ModularMeshes\ModularMeshes.Build.cs</Link></Compile>
   <Compile Include="..\..\..\..\Plugins\SwiftConsole\Source\SwiftConsole\SwiftConsole.Build.cs"><Link>Plugins\SwiftConsole\Source\SwiftConsole\SwiftConsole.Build.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\UnrealEngine.Target.cs"><Link>Source\UnrealEngine.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\UnrealEngineEditor.Target.cs"><Link>Source\UnrealEngineEditor.Target.cs</Link></Compile>

@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\source\\modularmeshes\\private\\modularmeshdataasset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\intermediate\\build\\win64\\x64\\portfolioeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\modularmeshes\\definitions.modularmeshes.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\source\\modularmeshes\\public\\modularmeshdataasset.h",
+            "c:\\users\\rober\\onedrive\\documents\\game dev\\unreal\\unreal-portfolio\\plugins\\modularmeshes\\intermediate\\build\\win64\\unrealeditor\\inc\\modularmeshes\\uht\\modularmeshdataasset.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\rendering\\skeletalmeshlodimporterdata.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

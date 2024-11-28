@@ -8,8 +8,8 @@
 			"GelatinousWidget.cpp.obj",
 			"GelatinousWidgetBFL.cpp.obj",
 			"GelatinousWidgetCommands.cpp.obj",
-			"GelatinousWidgetStyle.cpp.obj",
-			"GelatinousWidgetDataAsset.cpp.obj"
+			"GelatinousWidgetDataAsset.cpp.obj",
+			"GelatinousWidgetStyle.cpp.obj"
 		]
 	}
 }
