@@ -6,6 +6,7 @@
 #include "SwiftConsoleSubsystem.generated.h"
 
 
+class USwiftConsoleWidget;
 class USwiftConsoleDataAsset;
 class IConsoleVariable;
 class UInputMappingContext;
@@ -13,7 +14,7 @@ class UInputAction;
 struct FInputActionValue;
 
 
-DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FSwiftConsoleUpdate, const TArray<FString>&, OutCommands);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FSwiftConsoleUpdate, const USwiftConsoleDataAsset*, ActiveDataAsset);
 
 UCLASS()
 class SWIFTCONSOLE_API USwiftConsoleSubsystem : public UGameInstanceSubsystem
@@ -95,7 +96,7 @@ class SWIFTCONSOLE_API USwiftConsoleSubsystem : public UGameInstanceSubsystem
 	FSoftObjectPath WidgetPath = FSoftObjectPath("/SwiftConsole/Widgets/SwiftConsole_Main.SwiftConsole_Main");
 	
 	UPROPERTY()
-	UUserWidget* WidgetMain = nullptr;
+	USwiftConsoleWidget* SwiftConsoleWidget = nullptr;
 
 	void LoadWidget();
 
@@ -103,6 +104,6 @@ class SWIFTCONSOLE_API USwiftConsoleSubsystem : public UGameInstanceSubsystem
 	void BroadCastUpdate();
 	
 public:
-	UPROPERTY(BlueprintAssignable)
-	FSwiftConsoleUpdate OnSwiftConsoleUpdate;
+	// UPROPERTY(BlueprintAssignable)
+	// FSwiftConsoleUpdate OnSwiftConsoleUpdate;
 };

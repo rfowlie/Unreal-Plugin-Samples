@@ -10,6 +10,6 @@ void USwiftConsoleWidget::NativeConstruct()
 {
 	Super::NativeConstruct();
 
-	USwiftConsoleSubsystem* Subsystem = GetGameInstance()->GetSubsystem<USwiftConsoleSubsystem>();
-	Subsystem->OnSwiftConsoleUpdate.AddDynamic(this, &ThisClass::ReceiveSwiftConsoleUpdate);
+	// USwiftConsoleSubsystem* Subsystem = GetGameInstance()->GetSubsystem<USwiftConsoleSubsystem>();
+	// Subsystem->OnSwiftConsoleUpdate.AddDynamic(this, &ThisClass::ReceiveSwiftConsoleUpdate);
 }

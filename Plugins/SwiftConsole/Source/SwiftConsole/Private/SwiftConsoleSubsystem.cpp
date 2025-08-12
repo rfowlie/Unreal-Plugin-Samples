@@ -33,14 +33,14 @@ void USwiftConsoleSubsystem::Initialize(FSubsystemCollectionBase& Collection)
 }
 
 void USwiftConsoleSubsystem::Deinitialize()
-{
+{	
 	Super::Deinitialize();
-	
+
 	ClearAll();
-	for (const auto ConsoleObject : DataAssetConsoleCommands)
-	{
-		IConsoleManager::Get().UnregisterConsoleObject(ConsoleObject);
-	}
+	// for (const auto ConsoleObject : DataAssetConsoleCommands)
+	// {
+	// 	IConsoleManager::Get().UnregisterConsoleObject(ConsoleObject);
+	// }
 }
 
 bool USwiftConsoleSubsystem::ShouldCreateSubsystem(UObject* Outer) const
@@ -193,12 +193,9 @@ void USwiftConsoleSubsystem::Disable()
 	ClearAll();
 	RemoveInputMappingContext();
 	CurrentRow = 0;
-
-	// remove widget
-	if (WidgetMain)
+	if (IsValid(SwiftConsoleWidget))
 	{
-		WidgetMain->Destruct();
-		WidgetMain = nullptr;
+		SwiftConsoleWidget->SetVisibility(ESlateVisibility::Collapsed);
 	}
 }
 
@@ -349,28 +346,36 @@ void USwiftConsoleSubsystem::LoadWidget()
 		UE_LOG(LogTemp, Error, TEXT("Swift Console Widget not set in config"));
 		return;
 	}
-
-	if (DeveloperSettings->bEnableWidget)
+	if (IsValid(SwiftConsoleWidget))
 	{
-		WidgetMain = CreateWidget<UUserWidget>(GetWorld(), DeveloperSettings->DisplayWidget);
-		WidgetMain->SetVisibility(ESlateVisibility::Visible);
-		WidgetMain->AddToViewport();
+		SwiftConsoleWidget->SetVisibility(ESlateVisibility::Visible);
+	}
+	else if (DeveloperSettings->bEnableWidget)
+	{
+		SwiftConsoleWidget = CreateWidget<USwiftConsoleWidget>(GetWorld(), DeveloperSettings->DisplayWidget);
+		SwiftConsoleWidget->SetVisibility(ESlateVisibility::Visible);
+		SwiftConsoleWidget->AddToViewport();
 	}
 }
 
 void USwiftConsoleSubsystem::BroadCastUpdate()
 {
+	if (!IsValid(SwiftConsoleWidget)) { return; }
+	
 	const USwiftConsoleDeveloperSettings* DeveloperSettings = GetDefault<USwiftConsoleDeveloperSettings>();
 	
 	FString Temp;
-	TArray<FString> OutCommands;
+	// TArray<FString> OutCommands;
+	TMap<FKey, FString> OutMap;
 	CurrentCommandIndex = DeveloperSettings->SwiftConsoleKeys.Num() * CurrentRow;
-	for (int32 Index = CurrentCommandIndex; Index < CurrentCommandIndex + DeveloperSettings->SwiftConsoleKeys.Num(); Index++)
+	for (int32 Index = 0; Index < DeveloperSettings->SwiftConsoleKeys.Num(); Index++)
 	{
-		if (!DataAssetCurrent->GetCommandAt(Index, Temp)) { break; }
-		OutCommands.Add(Temp);
+		if (!DataAssetCurrent->GetCommandAt(Index + CurrentCommandIndex, Temp)) { break; }
+		OutMap.Add(DeveloperSettings->SwiftConsoleKeys[Index], Temp);
+		// OutCommands.Add(Temp);
 		Temp.Empty();
 	}
 
-	if (OnSwiftConsoleUpdate.IsBound()) { OnSwiftConsoleUpdate.Broadcast(OutCommands); }
+	SwiftConsoleWidget->UpdateCommandList(OutMap);
+	// if (OnSwiftConsoleUpdate.IsBound()) { OnSwiftConsoleUpdate.Broadcast(DataAssetCurrent); }
 }

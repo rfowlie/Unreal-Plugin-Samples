@@ -6,6 +6,8 @@
 #include "Blueprint/UserWidget.h"
 #include "SwiftConsoleWidget.generated.h"
 
+class USwiftConsoleDataAsset;
+
 /**
  * 
  */
@@ -16,7 +18,14 @@ class SWIFTCONSOLE_API USwiftConsoleWidget : public UUserWidget
 	
 	virtual void NativeConstruct() override;
 
-protected:
+public:
 	UFUNCTION(BlueprintImplementableEvent)
-	void ReceiveSwiftConsoleUpdate(const TArray<FString>& OutCommands);
+	void UpdateCommandList(const TMap<FKey, FString>& InCommandList);
+	
+protected:
+	// UFUNCTION(BlueprintImplementableEvent)
+	// void ReceiveSwiftConsoleUpdate(const TArray<FString>& OutCommands);
+	
+	UFUNCTION(BlueprintImplementableEvent)
+	void ReceiveSwiftConsoleUpdate(const USwiftConsoleDataAsset* ActiveDataAsset);
 };
